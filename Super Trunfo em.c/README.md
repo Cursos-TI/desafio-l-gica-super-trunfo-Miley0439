@@ -25,7 +25,3 @@ Após compilar, execute o programa:
 - Atributo: População
 - Regra de Vitória: Maior valor vence
 
-
-
-
-Perguntar ao ChatGPT
